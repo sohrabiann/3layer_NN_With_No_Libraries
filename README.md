@@ -5,3 +5,5 @@ The goal of this project is to gather an even better understanding of Neural Net
 Since when you use libraries it is hard to understand what is really going on behind the scenes to your datasets, so I will be doing it manually.
 
 Currently in the proccess of doing the math and matrix manipulation on paper.
+
+Dataset: https://archive.ics.uci.edu/dataset/2/adult
