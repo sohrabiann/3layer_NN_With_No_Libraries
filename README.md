@@ -6,4 +6,6 @@ Since when you use libraries it is hard to understand what is really going on be
 
 Currently in the proccess of doing the math and matrix manipulation on paper.
 
+This project will be made to make predictions on if adults can/will make over 50k a year in income
+
 Dataset: https://archive.ics.uci.edu/dataset/2/adult
