@@ -1,0 +1,8 @@
+CMD Prompt:
+python get-pip.py
+
+Pip install:
+pip install numpy
+pip install pandas
+pip install numpy scipy scikit-learn
+pip3 install matplotlib
