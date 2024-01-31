@@ -9,6 +9,7 @@ Dataset: https://archive.ics.uci.edu/dataset/2/adult
 
 ### Observations: This dataset is unbalanced. Most people make over 50k a year so my (small) Neural Network can't predict a Fale value since 80% of the dataset is true to begin with
 
-## The file 'main_Regression.py'  will be made to make predictions on the miles per gallon on a car. # Here is the dataset: https://archive.ics.uci.edu/dataset/9/auto+mpg
+## The file 'main_Regression.py'  will be made to make predictions on the miles per gallon on a car.  
+Here is the dataset: https://archive.ics.uci.edu/dataset/9/auto+mpg
 
 ### Observations: 
