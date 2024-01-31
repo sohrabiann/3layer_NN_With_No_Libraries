@@ -6,3 +6,4 @@ pip install numpy
 pip install pandas
 pip install numpy scipy scikit-learn
 pip3 install matplotlib
+pip install ucimlrepo
